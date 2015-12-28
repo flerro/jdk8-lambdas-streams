@@ -1,4 +1,4 @@
 
-Playing with new Java 8 features. The [JDK8 preview](https://jdk8.java.net/download.html) is required to build the example.
+Playing with new Java 8 functional features.
 
-If you can speak Italian, take a look at the [related blog post](http://www.rolandfg.net/2014/02/27/java8-lambdas-streams/).
+If you are able to read Italian, you may want learn more about [Java 8 streams and lambdas](http://www.rolandfg.net/2014/02/27/java8-lambdas-streams/).
